@@ -1,15 +1,16 @@
-# Cartelle
+
 OLD/
 TESTING/
 img/
 
-# File specifici
+
 CHANGELOG.txt
 resume.txt
 wiki_dbg.py
 config.json
+app_cache.json
+items.txt
 
-# Standard Python (Consigliato aggiungere anche questi)
 __pycache__/
 *.pyc
 .venv/
